@@ -31,7 +31,7 @@ While these prototypes are often unpolished or incomplete, they showcase:
 
 ## 🌍 Alternate History & Modding Projects
 
-Beyond game development, I’m also the creator of **“Kui Öösel Saabub”** (“When Night Falls”), an **alternate history universe** focused on cultural, linguistic, and geopolitical transformation.
+Beyond game development, I’m also the creator of **“Kui Öösel Saabub”** (“When Night Falls”), an **alternate history universe** focused on cultural, linguistic, and Points of Divergence in our history.
 
 This passion project has led to the development of several mods for grand strategy games:
 
