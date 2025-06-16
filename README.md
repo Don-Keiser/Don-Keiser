@@ -7,12 +7,13 @@
 Hi! I’m **Don Keiser**, a 22-year-old game developer with 3 years of experience working in **Unity (C#)**. I’m currently in my third year of a **Bachelor in Game Development** at *La Horde*, a French higher education school specialized in video game creation.
 
 I’ve worked on both solo and collaborative projects, often taking on the role of **developer**, **game designer**, and **project lead**.  
+I focus more on **Game Design** and **Project Management**.
 I'm also passionate about **interactive narrative design** and **alternate history worldbuilding**.
 
 ### 🧠 Key Skills:
-- Game Development – *Unity, C#*
 - Game Design – *Mechanics, Level Design, Lore, Systems*
 - Team Management – *Planning, Leadership*
+- Game Development – *Unity, C#*
 
 ---
 
